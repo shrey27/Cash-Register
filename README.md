@@ -1,2 +1,2 @@
 # Cash Register
- A simpe web app made using HTMl,CSS and Vanilla JS
+ A simpe web app made using HTML, CSS and Vanilla JS
